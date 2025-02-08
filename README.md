@@ -35,7 +35,7 @@ This application fetches weather data from [OpenWeatherMap](https://openweatherm
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
-# Deployed link
+## Deployed link
 https://skycast-kt00.onrender.com/
 
 ## Author
